@@ -1,4 +1,4 @@
-# EDA & Clustering: Amazon Data Science Books
+# EDA Amazon Data Science Books
 
 ![image](https://user-images.githubusercontent.com/90423581/205901524-67a6b779-2d69-4bbf-bfa4-4695cdb88bb0.png)
 
